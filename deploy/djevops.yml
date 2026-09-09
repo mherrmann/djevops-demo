@@ -1,0 +1,7 @@
+server: 188.245.50.54
+git:
+  repo: mherrmann/djevops-demo
+  branch: main
+services:
+  web:
+    type: django
